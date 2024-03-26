@@ -31,5 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
-employeeData.mv
-employeeData.trace
+employeeData.mv.db
+employeeData.trace.db
